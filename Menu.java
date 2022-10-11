@@ -7,7 +7,7 @@ public class Menu {
     {
         try{
         
-        System.out.println("Menu");
+        System.out.println("Menu général");
         System.out.print("1. ajouter\n2.Lister\n Votre choix : ");
         Scanner sc = new Scanner(System.in);
         int choix=sc.nextInt();
